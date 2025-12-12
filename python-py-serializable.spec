@@ -1,6 +1,6 @@
 Name:		python-py-serializable
 Version:	2.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/py-serializable/py_serializable-%{version}.tar.gz
 Summary:	Library for serializing and deserializing Python Objects to and from JSON and XML.
 URL:		https://pypi.org/project/py-serializable/
